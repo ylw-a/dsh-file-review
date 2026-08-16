@@ -1,0 +1,7 @@
+node_modules/
+lib/
+docs/
+*.log
+.DS_Store
+TUI-Assessment.md
+AGENTS.md
